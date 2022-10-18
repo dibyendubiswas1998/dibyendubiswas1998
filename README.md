@@ -22,7 +22,7 @@ To work in a challenging atmosphere by exhibiting my skills with at most sinceri
 
 ## Personal Project:
 * **Global Energy Trade Analysis:**<br>
-Create and develop the resulting dashboard could display total energy statistics on production, exchange, and usage of primary and secondary energy, conventional and non-conventional energy sources, and renewable and non-renewable energy sources. For the dashboard, you can use **Power BI** visualization types such as Bar Charts, Flow Maps, Cards for the overview page, Ribbon Charts, Bar Charts for the energy production and exchange pages, etc.<br>
+Create and develop the resulting dashboard could display total energy statistics on production, commodity exchange, and usage of primary and secondary energy, conventional and non-conventional energy sources, and renewable and non-renewable energy sources. For the dashboard, you can use **Power BI** visualization types such as Bar Charts, Flow Maps, Cards for the overview page, Ribbon Charts, Bar Charts for the energy production and exchange pages, etc.<br>
 **GitHub link:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis <br>
 
 * **Adult Census Income Prediction:**<br>
