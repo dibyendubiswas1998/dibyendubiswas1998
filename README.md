@@ -26,6 +26,6 @@ Create and develop the resulting dashboard could display total energy statistics
 **GitHub link:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis <br>
 
 * **Adult Census Income Prediction:**<br>
-The main goal of this project is to design and develop scalable end-to-end **machine learning pipeline** using Mlops and DVC technology, and get best model which can easily predict whether a person has an income of more than 50K a year or not.<br>
+**On going:** The main goal of this project is to design and develop scalable end-to-end **machine learning pipeline** using Mlops and DVC technology, and get best model which can easily predict whether a person has an income of more than 50K a year or not.<br>
 **GitHub link:** https://github.com/dibyendubiswas1998/Adult-Census-Income-Prediction <br>
 
