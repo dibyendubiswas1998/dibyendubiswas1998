@@ -25,7 +25,7 @@ To work in a challenging atmosphere by exhibiting my skills with at most sinceri
 Create and develop the resulting dashboard could display total energy statistics on production, commodity exchange, and usage of primary and secondary energy, conventional and non-conventional energy sources, and renewable and non-renewable energy sources. For the dashboard, you can use **Power BI** visualization types such as Bar Charts, Flow Maps, Cards for the overview page, Ribbon Charts, Bar Charts for the energy production and exchange pages, etc.<br>
 **GitHub link:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis <br>
 
-* **Adult Census Income Prediction:**<br>
-**On going:** The main goal of this project is to design and develop scalable end-to-end **machine learning pipeline** using Mlops and DVC technology, and get best model which can easily predict whether a person has an income of more than 50K a year or not.<br>
+* **On going:** **Adult Census Income Prediction:**<br>
+The main goal of this project is to design and develop scalable end-to-end **machine learning pipeline** using Mlops and DVC technology, and get best model which can easily predict whether a person has an income of more than 50K a year or not.<br>
 **GitHub link:** https://github.com/dibyendubiswas1998/Adult-Census-Income-Prediction <br>
 
