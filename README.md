@@ -15,7 +15,7 @@ To work in a challenging atmosphere by exhibiting my skills with at most sinceri
 | **Database**        |  MySQL |
 | **Visualizations**  |  Power BI, Jupyter Notebook, Excel Charts. |
 | **Machine Learning** | Mathematics for ML, Feature Engineering, Feature Selections, Dimension Reduction Techniques, Supervised & Unsupervised algorithms, etc.|
-| **MLops Tools** | CI/CD pipeline, DVC, MLFlow, etc. |
+| **MLops Tools** | CI/CD pipeline, Git, DVC, MLFlow, etc. |
 
 
 
