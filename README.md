@@ -3,6 +3,7 @@
 <h3 align="center">I am a Data Scientist from India.</h3>
 <!-- <img align="right" alt="data" width="400" src="https://www.theaidream.com/theaidream/categories/data-science.gif"> -->
 <p>A results-driven BCA graduate with a passion for leveraging advanced data science techniques to extract valuable insights from complex datasets. My expertise lies in the strategic application of statistical methods, machine learning, deep learning, NLP, computer vision, and state-of-the-art tools to perform in-depth data analysis, manipulation, and ability to develop full-stack data science projects.</p>
+<br>
 
 - 🌱 I’m currently learning **MLOps & Generative AI.**
 
