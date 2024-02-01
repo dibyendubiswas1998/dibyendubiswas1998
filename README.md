@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dibyendubiswas1998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mH-GXH8krqzu7PzTZuEYXmwtz651Ew5_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yMRNEh2-1FyPSP_5q-aHhCl1GwNGCYIm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
