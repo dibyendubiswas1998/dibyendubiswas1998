@@ -10,11 +10,13 @@ and can <strong>develop full-stack data science projects</strong>. Currently, I 
 </p>
 <br>
 
-- 🌱 I’m currently learning **MLOps & Generative AI.**
+- 🔭 I’m currently working as an <strong>AI Engineer</strong> Intern <strong>@EDZLearn Services Private Ltd.</strong>
+  
+- 🌱 I’m currently learning **MLOps & Generative AI**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/dibyendubiswas1998?tab=repositories)
 
-- 💬 Ask me about **Data Scientist & Data Analyst**
+- 💬 Ask me about **Data Scientist & AI Engineering**
 
 - 📫 How to reach me **dibyendubiswas1998@gmail.com**
 
