@@ -5,18 +5,22 @@
 <p>
 A results-driven BCA graduate with a passion for leveraging advanced data science techniques to extract valuable insights
 from complex datasets, my expertise lies in the strategic application of statistical methods, machine learning, deep learning,
-NLP, computer vision, and state-of-the-art tools. I possess the ability to perform in-depth data analysis and manipulation
-and can <strong>develop full-stack data science projects</strong>. Currently, I am expanding my knowledge in <strong>MLOps</strong> and <strong>Generative AI</strong>.
+NLP, computer vision, and state-of-the-art tools. I can perform in-depth data analysis and manipulation
+and can <strong>develop full-stack data science projects</strong>. Currently, I am expanding my knowledge in <strong>Devops | Cloud | AI/ML</strong>.
 </p>
 <br>
 
-- 🔭 I’m currently working as an <strong>AI Engineer</strong> Intern <strong>@EDZLearn Services Private Ltd.</strong>
+- 🔭 I’m currently working as an <strong>AI/ML Engineer | DevOps Engineer | Cloud Engineer</strong>
   
-- 🌱 I’m currently learning **MLOps & Generative AI**
+- 🌱 I’m currently learning **AI/ML | DevOps | Cloud**
+
+- 👨‍💻 I completed my two **Internships**:
+    * **AI Engineer** at **EdzLearn Service Private Ltd.** (paid)
+    * **Data Science** at **Ineuron.ai**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/dibyendubiswas1998?tab=repositories)
 
-- 💬 Ask me about **Data Scientist & AI Engineering**
+- 💬 Ask me about **AI/ML | DevOps | Cloud**
 
 - 📫 How to reach me **dibyendubiswas1998@gmail.com**
 
