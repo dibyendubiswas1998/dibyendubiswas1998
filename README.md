@@ -24,7 +24,7 @@ and can <strong>develop full-stack data science projects</strong>. Currently, I 
 
 - 📫 How to reach me **dibyendubiswas1998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G1PQUB4P7YBFFxKq0IN66mOE58vMKoXP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A7KWD_f-YOK6wgEOrEGg0sye234K3-IR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
