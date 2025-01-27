@@ -20,13 +20,13 @@
 
 ### **About Me**
 
-👨‍💻 I'm a **results-driven AI/ML Engineer** with **6+ months of internship experience**, specializing in **Generative AI, Machine Learning, Deep Learning, NLP, and Computer Vision**. I have a strong foundation in **Python, PyTorch, TensorFlow, LangChain, OpenAI API, and AWS Bedrock**, and I'm passionate about building scalable AI solutions.
+👨‍💻 Results-driven **AI/ML Engineer** with **9+ months of internship experience**, specializing in developing scalable, cutting-edge **AI** and **Generative AI** solutions. Skilled in leveraging advanced techniques, including **RAG**, **LangChain**, **LangGraph**, **AWS**, and **CI/CD**, to deliver impactful applications. Proven track record in chatbot development, prompt engineering, and implementing **DevOps** best practices to streamline workflows. Dedicated to creating innovative solutions focusing on efficiency, accuracy, and user experience and currently expanding expertise in **Agentic AI** and **DevOps practices**.
 
 🚀 Currently, I'm expanding my expertise in **Agentic AI (LangGraph, Phidata)** and **DevOps practices** (Docker, Kubernetes, CI/CD pipelines, AWS CloudWatch).
 
-🔭 **I’m currently working as an AI/ML Engineer**, focusing on developing **chatbots powered by Large Language Models (LLMs)** and **document-tagging systems** using state-of-the-art transformer models.
+🔭 **I’m currently working as an AI/ML Engineer**, focusing on developing **chatbots powered by Large Language Models (LLMs)**.
 
-🌱 **I’m currently learning** advanced topics in **AI/ML, DevOps, and Cloud Computing** to enhance my skill set and contribute to cutting-edge projects.
+🌱 **I’m currently learning** advanced topics in **AI/ML, Agentic AI, DevOps, and Cloud Computing** to enhance my skill set and contribute to cutting-edge projects.
 
 ---
 
