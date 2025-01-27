@@ -69,7 +69,7 @@
 - **Python** (Scripting, Automation, Flask, FastAPI)
 - **Machine Learning**: Scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers
 - **Deep Learning**: CNN, RNN, LSTM, GRU, Transformers, GPT
-- **Generative AI**: LangChain, OpenAI API, AWS Bedrock, Prompt Engineering, RAG, Vector Databases
+- **Generative AI**: LangChain, LangGraph, LangSmith, OpenAI API, AWS Bedrock, Prompt Engineering, RAG, Vector Databases
 
 #### **DevOps & Cloud**
 - **DevOps Tools**: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), DVC, MLFlow, Grafana, Prometheus
