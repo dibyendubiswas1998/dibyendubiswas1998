@@ -1,36 +1,139 @@
-
 <h1 align="center">Hi 👋, I'm Dibyendu Biswas</h1>
-<h3 align="center">I am a AI Engineer from India.</h3>
-<!-- <img align="right" alt="data" width="400" src="https://www.theaidream.com/theaidream/categories/data-science.gif"> -->
-<p>
-A results-driven BCA graduate with a passion for leveraging advanced data science techniques to extract valuable insights
-from complex datasets, my expertise lies in the strategic application of statistical methods, machine learning, deep learning,
-NLP, computer vision, and state-of-the-art tools. I can perform in-depth data analysis and manipulation
-and can <strong>develop full-stack data science projects</strong>. Currently, I am expanding my knowledge in <strong>Devops | Cloud | AI/ML</strong>.
+<h3 align="center">AI/ML Engineer | DevOps & Cloud Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/dibyendubiswas1998?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=dibyendubiswas1998&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendubiswas1998" />
+  </a>
+  <a href="https://linkedin.com/in/dibyendubiswas1998">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dibyendubiswas1998">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dibyendubiswas1998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-<br>
 
-- 🔭 I’m currently working as an <strong>AI/ML Engineer | DevOps Engineer | Cloud Engineer</strong>
-  
-- 🌱 I’m currently learning **AI/ML | DevOps | Cloud**
+---
 
-- 👨‍💻 I completed my two **Internships**:
-    * **AI Engineer** at **EdzLearn Service Private Ltd.** (paid)
-    * **Data Science** at **Ineuron.ai**
+### **About Me**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dibyendubiswas1998?tab=repositories)
+👨‍💻 I'm a **results-driven AI/ML Engineer** with **6+ months of internship experience**, specializing in **Generative AI, Machine Learning, Deep Learning, NLP, and Computer Vision**. I have a strong foundation in **Python, PyTorch, TensorFlow, LangChain, OpenAI API, and AWS Bedrock**, and I'm passionate about building scalable AI solutions.
 
-- 💬 Ask me about **AI/ML | DevOps | Cloud**
+🚀 Currently, I'm expanding my expertise in **Agentic AI (LangGraph, Phidata)** and **DevOps practices** (Docker, Kubernetes, CI/CD pipelines, AWS CloudWatch).
 
-- 📫 How to reach me **dibyendubiswas1998@gmail.com**
+🔭 **I’m currently working as an AI/ML Engineer**, focusing on developing **chatbots powered by Large Language Models (LLMs)** and **document-tagging systems** using state-of-the-art transformer models.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A7KWD_f-YOK6wgEOrEGg0sye234K3-IR/view?usp=sharing)
+🌱 **I’m currently learning** advanced topics in **AI/ML, DevOps, and Cloud Computing** to enhance my skill set and contribute to cutting-edge projects.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### **Experience**
+
+#### **AI Engineer Intern**  
+**EDZLearn Services Private Limited** | *Aug 2024 – Present*  
+- Developed **LLM-powered chatbots** using **RAG architecture** and **microservices**, improving customer interaction by **30%**.
+- Integrated **MongoDB** and **Pinecone** for efficient data storage and retrieval, enhancing chatbot performance by **25%**.
+- Utilized **AWS services** (Bedrock, EC2, Lambda, API Gateway, S3) for seamless deployment and integration.
+- Applied advanced **prompt-engineering techniques** (Zero-shot, Few-shot, Chain-of-Thought) and logged results using **MLFlow**.
+
+#### **Data Scientist Intern**  
+**incuron.ai** | *Sep 2023 – Dec 2023* | *Bangalore, India*  
+- Engineered a **Document-Tagging system** using **Hugging Face models**, achieving a **50% increase in accuracy** and reducing manual categorization time by **70%**.
+- Spearheaded the implementation of **transformer-based models**, reducing document categorization time by **35%** and improving accuracy by **20%**.
+- Established a **CI/CD pipeline** using **GitHub Actions**, automating processes from data collection to deployment.
+
+---
+
+### **Projects**
+
+#### **K12 Chatbot – Generative AI Application**  
+- Developed a **K12 educational chatbot** using **RAG architecture** and **microservices**, improving response accuracy by **30%**.
+- Integrated **MongoDB** and **Pinecone** for efficient data storage and retrieval.
+
+#### **News Short – Text Summarization Web App**  
+- Built a **Text Summarization Web App** with **CI/CD integration**, reducing development time by **40%** and improving user engagement by **25%**.
+- Fine-tuned transformer models for summarization, allowing users to customize summarization lengths.
+- Deployed on **AWS** with **99.9% uptime**.
+
+#### **Insurance Premium Prediction – ML App**  
+- Engineered an **Insurance Premium Prediction** system using **Scikit-learn**, achieving **95% accuracy** in premium estimates.
+- Conducted a comparative analysis of machine learning models, improving prediction accuracy by **95%**.
+
+---
+
+### **Skills**
+
+#### **Programming Languages & Frameworks**
+- **Python** (Scripting, Automation, Flask, FastAPI)
+- **Machine Learning**: Scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers
+- **Deep Learning**: CNN, RNN, LSTM, GRU, Transformers, GPT
+- **Generative AI**: LangChain, OpenAI API, AWS Bedrock, Prompt Engineering, RAG, Vector Databases
+
+#### **DevOps & Cloud**
+- **DevOps Tools**: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), DVC, MLFlow, Grafana, Prometheus
+- **Cloud Platforms**: AWS (EC2, S3, Lambda, API Gateway, ECR, CloudWatch)
+
+#### **Databases**
+- **SQL**: MySQL
+- **NoSQL**: MongoDB, Pinecone (Vector Databases)
+
+---
+
+### **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dibyendubiswas1998&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendubiswas1998&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### **Connect with Me**
+
 <p align="left">
-<a href="https://linkedin.com/in/dibyendubiswas1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyendubiswas1998" height="30" width="40" /></a>
-<a href="https://instagram.com/dibyendubiswas1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibyendubiswas1998" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dibyendubiswas1998" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/dibyendubiswas1998" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:dibyendubiswas1998@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### **Languages and Tools**
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### **Resume**
+
+📄 [Download My Resume](https://drive.google.com/file/d/1A7KWD_f-YOK6wgEOrEGg0sye234K3-IR/view?usp=sharing)
+
+---
